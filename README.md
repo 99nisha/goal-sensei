@@ -31,9 +31,47 @@ This project is suitable for HR departments, project managers, or analytics team
 
 **🛠 Built With**
 
-Microsoft Power BI
-Excel datasets
+- Microsoft Power BI
+- Excel datasets
 
 **📌 Note**
 
 This is a fictional but realistic representation of an HR project management dashboard designed for demonstration, academic, or professional portfolio use.
+
+## Resources That Helped Me During the Project
+
+- **YouTube: How to Power BI**  
+  [https://youtube.com/@howtopowerbi?si=P7nhyHRHjPpQksLg](https://youtube.com/@howtopowerbi?si=P7nhyHRHjPpQksLg)
+
+- **Dumbled Chart (YouTube)**  
+  [https://youtube.com/@howtopowerbi?si=P7nhyHRHjPpQksLg](https://youtube.com/@howtopowerbi?si=P7nhyHRHjPpQksLg)
+
+- **Health Chart (YouTube)**  
+  [https://youtu.be/cYwioeHu_OU?si=oj10odqNqKEsDmZy](https://youtu.be/cYwioeHu_OU?si=oj10odqNqKEsDmZy)
+
+- **Matrix Gantt Chart (YouTube)**  
+  [https://youtu.be/QugkBqc-jIs?si=3AmXQT9BB_6MdZN2](https://youtu.be/QugkBqc-jIs?si=3AmXQT9BB_6MdZN2)
+
+- **DataCamp Cheat Sheet: Formulas in DAX**  
+  [https://media.datacamp.com/legacy/image/upload/v1653826988/Marketing/Blog/Formulas_in_DAX_Cheat_Sheet.pdf](https://media.datacamp.com/legacy/image/upload/v1653826988/Marketing/Blog/Formulas_in_DAX_Cheat_Sheet.pdf)
+
+- **Profile Pic Generator**  
+  [https://app.pfpmaker.com/](https://app.pfpmaker.com/)
+
+- **AI Photo Generator (Photoleap - iOS App)**  
+  [https://apps.apple.com/lk/app/photoleap-ai-art-photo-editor/id1191337894](https://apps.apple.com/lk/app/photoleap-ai-art-photo-editor/id1191337894)
+
+- **Bulk Photo Resizer**  
+  [https://imageresizer.com/bulk-resize](https://imageresizer.com/bulk-resize)
+
+- **Photo Resizer**  
+  [https://imageresizer.com/](https://imageresizer.com/)
+
+- **Color Palette Generator (Coolors)**  
+  [https://coolors.co/](https://coolors.co/)
+
+- **Pics (PNGTree)**  
+  [https://pngtree.com/](https://pngtree.com/)
+
+- **Base64: How to embed Base64 images in Power BI**  
+  [Power BI Point](https://powerbipoint.com/how-to-embedding-base64-images-in-power-bi/)
